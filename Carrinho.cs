@@ -21,36 +21,34 @@ namespace Aula24ObjetosComoArgumentos
         }
 
         // 3 - Criamos o método que remove um produto do carrinho
-        public void RemoverProduto(Produto produto){
-            carrinho.Remove(produto);
+        public void RemoverProduto(Produto prod){
+            carrinho.Remove(prod);
         }
 
         //Podemos criar um método para listar os produtos que estão no carrinho
 
-        public void MostrarProduto(){
+        public void Ler(){
+            foreach(Produto item in carrinho){
+                System.Console.WriteLine($"{item.Nome} - R${item.Preco}");
+            }
+        }
+        public void MostrarTotal(){
 
             Console.ForegroundColor = ConsoleColor.Blue;
-            if(carrinho != null){
-
-                foreach(Produto p in carrinho){
-                    ValorTotal += p.Preco;
+                foreach(Produto item in carrinho){
+                    ValorTotal += item.Preco;
                 }
             Console.WriteLine($"Total do carrinho: ${ValorTotal.ToString("n2")}");
             
             Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Red;
-            }else{
-                Console.WriteLine($"Seu carrinho ainda está vazio!");
-            }
-
-            Console.ResetColor();
+            
         }
 
         // 6 - Podemos alterar um determinado produto
 
-        public void AlterarItem(int _codigo, Produto _novoProduto){
-            carrinho.Find(x => x.Codigo == _codigo).Nome = _novoProduto.Nome;
-            carrinho.Find(x => x.Codigo == _codigo).Preco = _novoProduto.Preco;
+        public void AlterarItem(Int32 _cod, Produto _novoProduto){
+            carrinho.Find(x => x.Codigo == _cod).Nome = _novoProduto.Nome;
+            carrinho.Find(x => x.Codigo == _cod).Preco = _novoProduto.Preco;
         }
     }
 }
