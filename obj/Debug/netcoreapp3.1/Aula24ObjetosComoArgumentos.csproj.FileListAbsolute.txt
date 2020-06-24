@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.exe
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.dll
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\bin\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.dll
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.pdb
+C:\Users\saman\OneDrive\Documentos\Aula24ObjetosComoArgumentos\obj\Debug\netcoreapp3.1\Aula24ObjetosComoArgumentos.genruntimeconfig.cache
